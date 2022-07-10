@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  background-color: #A9C4EB;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 0.25rem;
+  margin-bottom: 1rem;
+  font-size: large;
+  font-weight: bold;
+  border-bottom: 2px solid var(--primary);
+}
+
+.header-sort_label {
+  margin-right: 0.5rem;
+}
+
+.header-sort_select {
+  margin-right: 2rem;
+}
+
+.header-toggle_label {
+  margin-right: 0.5rem;
+}
+
+.headerDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px  ;
+}
